@@ -8,3 +8,5 @@ Easy and fun way to memorize the states in the USA. Created in Python.
 4. If you want to exit the game, type "exit"
 
 <img src="img/ss.png">
+
+Created as a part of Udemys 100 days of code course by Angela Yu.
